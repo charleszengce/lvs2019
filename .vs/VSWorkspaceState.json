@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Winform"
+    "\\Winform",
+    "\\Winform\\WindowsFormsApp2"
   ],
-  "SelectedNode": "\\Winform\\WindowsFormsApp2.sln",
+  "SelectedNode": "\\Winform\\WindowsFormsApp2\\Form1.resx",
   "PreviewInSolutionExplorer": false
 }

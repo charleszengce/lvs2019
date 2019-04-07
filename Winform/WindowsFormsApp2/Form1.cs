@@ -22,5 +22,12 @@ namespace WindowsFormsApp2
             this.Close();
             Application.Exit();
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            webBrowser1.Url = new Uri(textBox1.Text);
+            webBrowser1.Refresh();
+            webBrowser1.WebBrowserShortcutsEnabled = true;
+        }
     }
 }
